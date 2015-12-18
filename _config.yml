@@ -1,7 +1,7 @@
 name: NausicaMedia
 favicon: null
 layout_spectrum: 0.7401434
-typography_spectrum: 0.6188258
+typography_spectrum: 0.89945
 collections:
   - index:
       path: /
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#fefefe'
+    - '#9c9c9c'
+    - '#4262ab'
+    - '#1d1d1b'
+    - '#d9d9d9'
   brandStrength: 0.6487519
   lightness: 0.428585
   saturation: 0.8568061
