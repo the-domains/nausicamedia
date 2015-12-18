@@ -1,0 +1,14 @@
+layout_spectrum: 0.7401434
+color:
+  saturation: 0.8568061
+  lightness: 0.428585
+  brandStrength: 0.6487519
+  rhythmicContrast: 0.7940148
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.6188258
+name: NausicaMedia
