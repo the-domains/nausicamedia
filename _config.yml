@@ -1,14 +1,7 @@
-color:
-  saturation: 0.8568061
-  brandStrength: 0.6487519
-  rhythmicContrast: 0.7940148
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  lightness: 0.428585
+name: NausicaMedia
+favicon: null
+layout_spectrum: 0.7401434
+typography_spectrum: 0.6188258
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.7401434
-typography_spectrum: 0.6188258
-name: NausicaMedia
+title: NausicaMedia sur The Grid
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6487519
+  lightness: 0.428585
+  saturation: 0.8568061
+  rhythmicContrast: 0.7940148
+purpose: []
